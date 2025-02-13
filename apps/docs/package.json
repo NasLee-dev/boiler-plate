@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@boiler/kakao",
   "version": "0.1.0",
   "type": "module",
   "private": true,
@@ -19,10 +19,12 @@
   "devDependencies": {
     "@repo/eslint-config": "*",
     "@repo/typescript-config": "*",
+    "@tanstack/react-query": "^5.66.0",
     "@types/node": "^22",
     "@types/react": "19.0.8",
     "@types/react-dom": "19.0.3",
     "eslint": "^9.19.0",
+    "react-kakao-maps-sdk": "^1.1.27",
     "typescript": "5.7.3"
   }
 }
